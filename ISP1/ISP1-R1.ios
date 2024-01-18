@@ -1,0 +1,4 @@
+hostname ISP1-R1
+!
+interface FastEthernet0/1
+ip address s
